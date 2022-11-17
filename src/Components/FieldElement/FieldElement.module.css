@@ -1,0 +1,11 @@
+.fieldElement {
+    width: 120px;
+    height: 120px;
+    border: 1px solid #000;
+    border-radius: 15%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
