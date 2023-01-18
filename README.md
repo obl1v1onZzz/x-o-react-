@@ -1,3 +1,25 @@
+# Migrating my project from code sandbox # 
+
+## Tic Tac Toe game ## 
+
+Tech stack: React Redux
+
+
+The project does not use Redux, Context
+
+
+
+> The victory check is universal and allows you to play on any size of the field and with any number of cells needed to win
+
+
+ToDo:
+1. Make a UI to change the size of the field and the number of cells to win
+2. ...
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
