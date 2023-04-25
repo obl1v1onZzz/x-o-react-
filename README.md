@@ -2,7 +2,7 @@
 
 ## Tic Tac Toe game ## 
 
-Tech stack: React Redux
+Tech stack: React
 
 
 The project does not use Redux, Context
